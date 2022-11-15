@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ir.kaist.ac.kr/about/'>KAIST IR&NLP</a>. Address. Contacts. Moto. Etc.
+subtitle: Technical Research Personnel at <a href='http://ir.kaist.ac.kr/about/'>KAIST IR&NLP</a>.
 
 profile:
   align: right
