@@ -38,15 +38,5 @@
     - title: Research Associate
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: Feb. 2020 - June 2020
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2019
-      items: 
-        - Rich Context Competition
-        description:
-            - By the Coleridge Initiative at New York University.
-            - Finalist (Top 4) in phase 1
             - 2nd place in phase 2 ($2,000)
             - Proposed a system to retrieve datasets from papers based on a RCQA model and a question generation.
