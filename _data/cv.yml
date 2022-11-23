@@ -39,6 +39,13 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: Feb. 2020 - June 2020
 
+- title: Services
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - EMNLP Review Committee
+          
 - title: Honors and Awards
   type: time_table
   contents:
