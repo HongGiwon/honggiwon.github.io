@@ -15,15 +15,15 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2018 - 2020
       description:
-        - Advisor: Prof. Sung-Hyong Myaeng
-        - Thesis committee: Sung-Hyong Myaeng, Alice Oh, Meeyoung Cha
-        - GPA: 3.98 / 4.30 (96.44%)
+        - "Advisor: Prof. Sung-Hyong Myaeng"
+        - "Thesis committee: Sung-Hyong Myaeng, Alice Oh, Meeyoung Cha"
+        - "GPA: 3.98 / 4.30 (96.44%)"
     - title: B.S. in Computer Science and Engineering
       institution: Sungkyunkwan University (SKKU)
       year: 2014 - 2018
       description:
-        - GPA: 4.00 / 4.50 (94.3%)
-        - Major GPA : 4.31 / 4.5 (97.72%)
+        - "GPA: 4.00 / 4.50 (94.3%)"
+        - "Major GPA : 4.31 / 4.5 (97.72%)"
 
 - title: Experience
   type: time_table
