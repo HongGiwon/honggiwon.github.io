@@ -21,5 +21,5 @@ I am actively seeking for a PhD position for the Fall 2023.
 
 ### Research Interests
 
-- **Natural Language Processing:** Question Answering, Data Efficiency, Language Modeling, Question Generation, Graph QA, Information Retrieval, Interpretability & Explainability
+- **Natural Language Processing:** Question Answering, Data Scarcity, Language Modeling, Question Generation, Graph QA, Information Retrieval, Interpretability & Explainability
 - **Expert Systems:** Development of NLP models to enable the general public to utilize expert knowledge
