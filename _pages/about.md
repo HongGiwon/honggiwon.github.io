@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Giwon Hong, currently working as a professional researcher at KAIST IR&NLP, where I got my master's degree under the guidance of Prof. Sung-Hyon Myaeng.
+Hi! I am Giwon Hong, currently working as a technical research personnel (research associate) at KAIST IR&NLP, where I got my master's degree under the guidance of Prof. Sung-Hyon Myaeng.
 
 I am actively seeking for a PhD position for the Fall 2023.
 
