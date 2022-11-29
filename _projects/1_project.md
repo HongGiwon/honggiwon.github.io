@@ -17,4 +17,4 @@ The objective of this research is to develop a knowledge evolutionary question a
     </div>
 </div>
 
-In this project, I am in charge of one of the sub-projects, detail task 1, KAIST. My responsibility is to manage the research progress and outcomes of the groups as well as continuing my own research. Throughout the project, I was able to conduct research and publish papers as a result on various NLP tasks including structural information, multi-hop QA, question generation, numerical representation, and knowledge base.
+In this project, I am in charge of one of the sub-projects, detail task 1, KAIST. My responsibility is to manage the research progress and outcomes of the groups as well as continuing my own research. Throughout the project, I was able to conduct research on various NLP tasks including structural information, multi-hop QA, question generation, numerical representation, and knowledge base.
