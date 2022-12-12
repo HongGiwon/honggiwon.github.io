@@ -6,7 +6,7 @@ subtitle: Technical Research Personnel at <a href='http://ir.kaist.ac.kr/about/'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1670819907580.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
