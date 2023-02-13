@@ -45,6 +45,9 @@
     - year: 2022
       items: 
         - EMNLP Review Committee
+    - year: 2023
+      items: 
+        - ACL Review Committee    
           
 - title: Honors and Awards
   type: time_table
