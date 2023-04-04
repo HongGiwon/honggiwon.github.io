@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am Giwon Hong, currently working as a technical research personnel (research associate) at KAIST IR&NLP, where I got my master's degree under the guidance of Prof. Sung-Hyon Myaeng.
 
-I am actively seeking for a PhD position for the Fall 2023.
+From Fall 2023, I will be joining in the university of Edinburgh ICLL PhD program under the advice of Professor <a href='https://neuralnoise.com/'>Pasquale Minervini</a>.
 
 ### Research Interests
 
