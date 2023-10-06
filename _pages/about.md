@@ -15,9 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Giwon Hong, currently working as a technical research personnel (research associate) at KAIST IR&NLP, where I got my master's degree under the guidance of Prof. Sung-Hyon Myaeng.
-
-From Fall 2023, I will be joining in the university of Edinburgh ICLL PhD program under the advice of Professor <a href='https://neuralnoise.com/'>Pasquale Minervini</a>.
+Hi! I am Giwon Hong, PhD student in ILCC program at the University of Edinburgh, under the guidance of Prof. <a href='https://neuralnoise.com/'>Pasquale Minervini</a> (Principal) and <a href='https://ducdauge.github.io/'>Edoardo Ponti</a>.
 
 ### Research Interests
 
