@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technical Research Personnel at <a href='http://ir.kaist.ac.kr/about/'>KAIST IR&NLP</a>.
+subtitle: PhD student in <a href='https://web.inf.ed.ac.uk/ilcc'>ILCC program</a> at the University of Edinburgh 
 
 profile:
   align: right
