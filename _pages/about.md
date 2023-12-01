@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Giwon Hong, PhD student in ILCC program at the University of Edinburgh, under the guidance of Prof. <a href='https://neuralnoise.com/'>Pasquale Minervini</a> (Principal) and <a href='https://ducdauge.github.io/'>Edoardo Ponti</a>.
+Hi! I am Giwon Hong, PhD student in ILCC program at the University of Edinburgh, under the guidance of Dr. <a href='https://neuralnoise.com/'>Pasquale Minervini</a> (Principal) and <a href='https://ducdauge.github.io/'>Edoardo Ponti</a>.
 
 ### Research Interests
 
