@@ -19,5 +19,5 @@ Hi! I am Giwon Hong, PhD student in ILCC program at the University of Edinburgh,
 
 ### Research Interests
 
-- **Natural Language Processing:** Question Answering, Data Scarcity, Language Modeling, Question Generation, Graph QA, Information Retrieval, Interpretability & Explainability
+- **Natural Language Processing:** Question Answering, Information Retrieval, Knowledge Conflicts, Data Scarcity, Language Modeling, Question Generation, Graph QA, Interpretability & Explainability
 - **Expert Systems:** Development of NLP models to enable the general public to utilize expert knowledge
