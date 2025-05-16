@@ -6,7 +6,7 @@ subtitle: PhD student in <a href='https://web.inf.ed.ac.uk/ilcc'>ILCC program</a
 
 profile:
   align: right
-  image: 1670819907580.jpg
+  image: 20250516_014825222.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
