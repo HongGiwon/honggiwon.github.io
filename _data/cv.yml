@@ -54,8 +54,7 @@
       items: 
         - ACL Review Committee    
         - EMNLP Review Committee
-        - ARR (Oct.) Review Committee
-        - ARR (Dec.) Review Committee
+        - ARR (Oct., Dec.) Review Committee
     - year: 2024
       items: 
         - COLM Review Committee
@@ -63,6 +62,14 @@
       items: 
         - ICLR Review Committee
         - COLM Review Committee
+        - ARR (Feb., May, July, Oct.) Review Committee
+    - year: 2026
+      items: 
+        - ICLR Review Committee
+        - COLM Review Committee
+        - NeurIPS Review Committee
+        - ARR (Jan) Review Committee
+        - ARR (Jan., Mar., May) Area Chair
           
 - title: Honors and Awards
   type: time_table
